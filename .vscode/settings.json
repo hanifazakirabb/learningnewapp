@@ -1,0 +1,5 @@
+{
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "learningapp\\bin\\Release\\net8.0\\publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/ecd13593-7432-4646-abbb-a04feaa2a065/resourceGroups/app-grp/providers/Microsoft.Web/sites/learningHanifaAbb/slots/subscriptions/ecd13593-7432-4646-abbb-a04feaa2a065/resourceGroups/app-grp/providers/Microsoft.Web/sites/learninghanifaabb/slots/stage"
+}
